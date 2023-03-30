@@ -1,4 +1,4 @@
-package org.example;
+package com.github.marcussilverio;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

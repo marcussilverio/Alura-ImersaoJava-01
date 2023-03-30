@@ -1,4 +1,4 @@
-package org.example;
+package com.github.marcussilverio;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
