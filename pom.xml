@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>Aquecimento</artifactId>
+    <artifactId>Alura - Imersao Java - 01</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -18,23 +18,13 @@
         <dependency>
             <groupId>org.json</groupId>
             <artifactId>json</artifactId>
-            <version>20211205</version>
+            <version>20220924</version>
         </dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <version>1.18.26</version>
             <scope>provided</scope>
-        </dependency>
-        <dependency>
-            <groupId>user.java.lang</groupId>
-            <artifactId>user.java.lang</artifactId>
-            <version>2020.164.33984</version>
-        </dependency>
-        <dependency>
-            <groupId>user.java.lang</groupId>
-            <artifactId>user.java.lang</artifactId>
-            <version>2020.164.33984</version>
         </dependency>
     </dependencies>
 
